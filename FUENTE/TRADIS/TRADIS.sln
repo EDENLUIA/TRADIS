@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRADIS.MVC", "TRADIS.MVC\TR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRADIS.IDATA", "TRADIS.IDATA\TRADIS.IDATA.csproj", "{4F083A5A-63A4-42AC-806F-D840EC3871B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRADIS.COMMON", "TRADIS.COMMON\TRADIS.COMMON.csproj", "{1C732745-3FAD-4FDE-AE5D-4BCA67F1DCD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4F083A5A-63A4-42AC-806F-D840EC3871B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F083A5A-63A4-42AC-806F-D840EC3871B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F083A5A-63A4-42AC-806F-D840EC3871B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C732745-3FAD-4FDE-AE5D-4BCA67F1DCD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C732745-3FAD-4FDE-AE5D-4BCA67F1DCD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C732745-3FAD-4FDE-AE5D-4BCA67F1DCD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C732745-3FAD-4FDE-AE5D-4BCA67F1DCD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
